@@ -1,0 +1,16 @@
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\starts-with-z\obj\Debug\net5.0\StartsWithZ.csproj.AssemblyReference.cache
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\starts-with-z\obj\Debug\net5.0\StartsWithZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\starts-with-z\obj\Debug\net5.0\StartsWithZ.AssemblyInfoInputs.cache
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\starts-with-z\obj\Debug\net5.0\StartsWithZ.AssemblyInfo.cs
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\starts-with-z\obj\Debug\net5.0\StartsWithZ.csproj.CoreCompileInputs.cache
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\starts-with-z\bin\Debug\net5.0\StartsWithZ.exe
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\starts-with-z\bin\Debug\net5.0\StartsWithZ.deps.json
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\starts-with-z\bin\Debug\net5.0\StartsWithZ.runtimeconfig.json
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\starts-with-z\bin\Debug\net5.0\StartsWithZ.runtimeconfig.dev.json
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\starts-with-z\bin\Debug\net5.0\StartsWithZ.dll
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\starts-with-z\bin\Debug\net5.0\ref\StartsWithZ.dll
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\starts-with-z\bin\Debug\net5.0\StartsWithZ.pdb
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\starts-with-z\obj\Debug\net5.0\StartsWithZ.dll
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\starts-with-z\obj\Debug\net5.0\ref\StartsWithZ.dll
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\starts-with-z\obj\Debug\net5.0\StartsWithZ.pdb
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\starts-with-z\obj\Debug\net5.0\StartsWithZ.genruntimeconfig.cache
