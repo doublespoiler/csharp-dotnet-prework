@@ -1,0 +1,16 @@
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\rated-r\obj\Debug\net5.0\RatedR.csproj.AssemblyReference.cache
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\rated-r\obj\Debug\net5.0\RatedR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\rated-r\obj\Debug\net5.0\RatedR.AssemblyInfoInputs.cache
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\rated-r\obj\Debug\net5.0\RatedR.AssemblyInfo.cs
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\rated-r\obj\Debug\net5.0\RatedR.csproj.CoreCompileInputs.cache
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\rated-r\bin\Debug\net5.0\RatedR.exe
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\rated-r\bin\Debug\net5.0\RatedR.deps.json
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\rated-r\bin\Debug\net5.0\RatedR.runtimeconfig.json
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\rated-r\bin\Debug\net5.0\RatedR.runtimeconfig.dev.json
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\rated-r\bin\Debug\net5.0\RatedR.dll
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\rated-r\bin\Debug\net5.0\ref\RatedR.dll
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\rated-r\bin\Debug\net5.0\RatedR.pdb
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\rated-r\obj\Debug\net5.0\RatedR.dll
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\rated-r\obj\Debug\net5.0\ref\RatedR.dll
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\rated-r\obj\Debug\net5.0\RatedR.pdb
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\rated-r\obj\Debug\net5.0\RatedR.genruntimeconfig.cache
