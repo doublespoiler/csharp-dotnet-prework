@@ -1,0 +1,16 @@
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\hotel-cost\bin\Debug\net5.0\HotelCost.exe
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\hotel-cost\bin\Debug\net5.0\HotelCost.deps.json
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\hotel-cost\bin\Debug\net5.0\HotelCost.runtimeconfig.json
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\hotel-cost\bin\Debug\net5.0\HotelCost.runtimeconfig.dev.json
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\hotel-cost\bin\Debug\net5.0\HotelCost.dll
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\hotel-cost\bin\Debug\net5.0\ref\HotelCost.dll
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\hotel-cost\bin\Debug\net5.0\HotelCost.pdb
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\hotel-cost\obj\Debug\net5.0\HotelCost.csproj.AssemblyReference.cache
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\hotel-cost\obj\Debug\net5.0\HotelCost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\hotel-cost\obj\Debug\net5.0\HotelCost.AssemblyInfoInputs.cache
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\hotel-cost\obj\Debug\net5.0\HotelCost.AssemblyInfo.cs
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\hotel-cost\obj\Debug\net5.0\HotelCost.csproj.CoreCompileInputs.cache
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\hotel-cost\obj\Debug\net5.0\HotelCost.dll
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\hotel-cost\obj\Debug\net5.0\ref\HotelCost.dll
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\hotel-cost\obj\Debug\net5.0\HotelCost.pdb
+C:\Users\Skylan\Desktop\Epicodus\projects\csharpdotnet\prework\hotel-cost\obj\Debug\net5.0\HotelCost.genruntimeconfig.cache
